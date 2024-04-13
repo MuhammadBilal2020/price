@@ -1,0 +1,683 @@
+body{
+    background-color: #f1f3f6;
+
+    margin: 0px;
+
+    padding: 0px;
+
+    box-sizing: border-box;
+
+    font-size: 62.5%;
+
+}
+
+#navbar{
+    background-color: rebeccapurple;
+    padding: .6rem .6rem;
+}
+
+.tog-logo{
+    width: 35%;
+}
+
+.myBar{
+    width: 1.7rem;
+}
+
+.myLogo{
+    width: 9rem;
+}
+
+.search-bar{
+    width: 30%;
+    background-color: white;
+    padding: .6rem 0.8rem;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.searchs{
+width: 80%;
+
+}
+
+.search{
+
+    border: 0px;
+    width:100% ;
+    /* background-color: gray; */
+  
+}
+
+.myVoice{
+width: 1.1rem;
+}
+
+.log-reg{
+    display: block;
+    width:35% ;
+}
+
+.login{
+    padding:0.6rem 1.7rem;
+    border: 0px;
+    border-radius: 3px;
+    background-color: white;
+    color: rebeccapurple;
+    font-size: 1rem;
+    
+}
+
+.register{
+
+    padding:0.55rem 1.7rem;
+    border: 1px solid white;
+    border-radius: 3px;
+    background-color: transparent;
+    
+    color: white;
+    font-size: 1rem;
+}
+
+/* NAVBAR  */
+
+
+
+
+/* NABBAR BOTTOM  */
+.navbar-botoom{
+    background-color: white;
+}
+
+.accessories{
+    width: 95%;
+}
+
+.mobiles{
+    width:110px;
+    font-size: .8rem;
+    height: 5rem;
+    padding: 1rem 0rem;
+}
+
+.mobiles:hover{
+    background-color: #f1f3f6;
+    border-bottom: 3px solid #48afff;
+}
+
+.mobile-img{
+    width: 2.6rem;
+}
+
+
+
+
+/* NABBAR BOTTOM  */
+
+
+
+
+ /* PRODUCTS STARTED  */
+
+/* FIRST PRODUCT */
+
+.earbuds-bcg{
+    background-color: rgb(190, 189, 189);
+}
+
+ .view-btn{
+    padding: 0.4rem 1rem;
+    border: 0px;
+    border-radius: 3px;
+    font-size: .9rem;
+ }
+
+.card{
+    background-color: #ffffff;
+    width: 230px; 
+    margin-left:1rem ;
+}
+
+
+ .buds-img{
+    width: 120px;
+    /* height: ; */
+ }
+
+ .name{
+    font-size: .8rem;
+    font-weight: bolder;
+ }
+
+ .spe-price{
+    font-size: 1.2rem;
+    font-weight: 500;
+
+ }
+
+ .act-price{
+    font-size: .7rem;
+    color: rgba(7, 18, 27, .4);
+ }
+
+ .off{
+    background-color: rgb(235, 232, 232);
+    padding: .2rem;
+    border-radius: .2rem;
+    color: #0bb07e;
+ }
+
+/* FIRST PRODUCT */
+
+
+
+/* SECOND PRODUCT */
+
+.watches-bcg{
+    background-color: #089396;
+}
+
+.watches-imgs{
+    height: 140px;
+}
+
+.s-watch-img{
+    width: 120px;
+    /* height: ; */
+ }
+
+ .spe-price-2{
+    font-size: 1.2rem;
+    font-weight: 500;
+margin-top: 18px;
+ }
+
+/* SECOND PRODUCT */
+
+
+/* BANNER  */
+
+.banner{
+    width: 100%;
+}
+
+.banner-img{
+    width: 100%;
+}
+
+/* BANNER  */
+
+
+
+
+/* THIRD PRODUCT */
+
+.mobile-bcg{
+    background-color: #fce55e;
+
+}
+
+.mobile-imgs{
+    height: 140px;
+}
+
+.l-mobile-img{
+    width: 120px;
+    /* height: ; */
+ }
+
+ .spe-price-2{
+    font-size: 1.2rem;
+    font-weight: 500;
+margin-top: 18px;
+ }
+
+/* THIRD PRODUCT */
+
+
+
+
+/* SHOP BY PRICE  */
+
+.by-price{
+    width: 290px;
+    padding: .6rem 0rem;
+    border-radius: 4px;
+    background-color: yellow;
+}
+
+.by-price:hover{
+    background-color: blue;
+    transition: .7s   ;
+    /* transform: ; */
+    /* scale: ; */
+    color: red;
+}
+/* SHOP BY PRICE  */
+
+
+
+
+
+/* SHOP BY BRAND  */
+
+.brand-body{
+    padding: 0rem 5rem;
+}
+
+.samsung{
+    width: 110px;
+    margin: 0rem .4rem;
+}
+
+.samsung-img{
+    width: 70px;
+}
+
+/* SHOP BY BRAND  */
+
+
+
+
+
+/* REVIEWS  */
+
+
+.reviews-imgs{
+    /* overflow-x: scroll; */
+
+    
+}
+
+.reviews-imgs-1{
+ 
+margin: 0.3rem .6rem;
+width: 110px;
+}
+
+.rev-img{
+    width: 110px;
+    height: 80px;
+    /* height: 130px; */
+    border-radius: 5px;
+}
+
+
+.per-name{
+    color: rgb(0, 123, 255);
+}
+
+.per-rating{
+    color: #ffc107;
+}
+
+.review-card{
+   
+}
+
+.review-card-1{
+    width: 350px;
+    height: 200px;
+    padding: 1.4rem .8rem;
+    border: 0.1px solid rgb(108, 104, 104);
+    border-radius: 6px;
+    margin-top: 10px;
+    
+
+}
+
+
+.NRD{
+    width: 260px;
+    /* background-color: #ef7219; */
+}
+
+.varified{
+    color: #0bb07e;
+}
+/* REVIEWS  */
+
+
+
+
+/* REASON  */
+
+.reason-1{
+    background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
+    width: 640px;
+    padding:  4rem; 
+    border-radius: 10px;
+    margin-top: 8px;
+
+
+}
+
+.reason-imgs{
+width: 250px;
+}
+
+.reason-img{
+    width: 150px;
+}
+.reason-text{
+    text-align: center;
+}
+
+.know-more{
+    padding: .4rem 1rem;
+    background-color: #ffc107;
+    border: 0px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+
+
+/* REASON  */
+
+
+
+
+
+/* SSERVICES  */
+
+.pta-img{
+    width: 70px;
+}
+
+.pta-text{
+    font-size: .9rem;
+    color: rgb(195, 192, 192);
+}
+
+/* SSERVICES  */
+
+
+/* FOOTER  */
+
+.footer{
+    background-color: rebeccapurple;
+}
+.priceoye-footer{
+    /* width: 400px; */
+    /* background-color: red; */
+    color: white;
+}
+
+.Customer-services{
+    /* width: 400px; */
+
+    
+}
+
+.one-l{
+    width: 300px;
+    margin-top: 20px;
+}
+
+
+.google{
+    width: 150px;
+
+}
+
+
+/* .secure-method */
+
+
+.footer-end{
+    background-color: rgb(110, 61, 159);
+}
+
+
+/* FOOTER  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* media queries */
+
+
+@media(max-width : 1400px){
+    .reason-1{
+        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
+        width: 550px;
+        padding:  4rem; 
+        border-radius: 10px;
+        margin-top: 8px;
+    
+    
+    }
+
+}
+
+
+
+@media(max-width : 1200px){
+    .reason-1{
+        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
+        width: 450px;
+        padding:  4rem; 
+        border-radius: 10px;
+        margin-top: 8px;
+    
+    
+    }
+
+}
+
+@media(max-width : 992px){
+    .mobiles{
+        width:150px;
+        font-size: .8rem;
+        height: 5rem;
+        padding: 1rem 0rem;
+        
+        /* flex-wrap: wrap; */
+    }
+
+    .reason-1{
+        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
+        width: 500px;
+        padding:  4rem; 
+        border-radius: 10px;
+        margin-top: 8px;
+    
+    
+    }
+
+}
+
+
+/* 768 */
+
+@media(max-width : 768px){
+
+    .tog-logo{
+        width: 50%;
+    }
+
+
+    .search-bar{
+        width: 50%;
+        background-color: white;
+        padding: .6rem 0.8rem;
+        border-radius: 6px;
+        font-size: 1rem;
+    }
+}
+
+
+
+
+
+/* 700 */
+
+
+@media(max-width : 700px){
+
+
+    .log-reg{
+        display: none;
+        /* color: red; */
+        /* background-color: black; */
+
+    }
+ 
+
+
+}
+
+
+/* 662 */
+
+
+@media(max-width : 662px){
+
+
+    .log-reg{
+        display: none;
+        /* color: red; */
+        /* background-color: black; */
+
+    }
+    .mobiles{
+        width:130px;
+        font-size: .8rem;
+        height: 5rem;
+        padding: 1rem 0rem;
+        
+        /* flex-wrap: wrap; */
+    }
+
+    .view-btn{
+        padding: 0.4rem 1.4rem;
+        border: 0px;
+        border-radius: 3px;
+        font-size: .5rem;
+     }
+
+     h4{
+        font-size: .8rem;
+     }
+
+}
+
+
+/* 575 */
+
+
+@media(max-width : 575px){
+
+
+
+    .mobiles{
+        width:90px;
+        font-size: .8rem;
+        height: 5rem;
+        padding: 1rem 0rem;
+        font-size: .6rem;
+        
+        /* flex-wrap: wrap; */
+    }
+
+    .mobile-img{
+        width: 2.6rem;
+        
+    }
+
+    .reason-1{
+        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
+        width: 90%;
+        padding: 4rem 2rem; 
+        border-radius: 10px;
+        margin-top: 8px;
+    
+    
+    }
+
+}
+
+
+/* 405 */
+
+
+@media(max-width : 405px){
+
+
+
+    .mobiles{
+        width:75px;
+        font-size: .8rem;
+        height: 5rem;
+        padding: 1rem 0rem;
+        font-size: .6rem;
+        
+        /* flex-wrap: wrap; */
+    }
+
+    .mobile-img{
+        width: 2.6rem;
+        
+    }
+
+    .tog-logo{
+        width: 62%;
+    }
+    .search-bar{
+        width: 45%;
+        background-color: white;
+        padding: .6rem 0.8rem;
+        border-radius: 6px;
+        font-size: 1rem;
+    }
+
+
+    .reason-1{
+        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
+        width: 90%;
+        padding: 4rem 1rem; 
+        border-radius: 10px;
+        margin-top: 8px;
+    
+    
+    }
+
+
+    /* Footer  */
+
+    .one-l{
+        width: 250px;
+        margin-top: 20px;
+    }
+
+    .google{
+        width: 130px;
+    
+    }
+
+    /* Footer  */
+
+
+}
+
+
+
+
+
+
+
+
+
+
