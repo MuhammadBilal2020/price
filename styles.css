@@ -171,6 +171,129 @@ width: 1.1rem;
 
 
 
+
+
+
+
+
+/* LOVED AND RECOMMENDED  */
+
+
+.loved-card{
+
+    width: 235px;
+    border-radius: 8px;
+    /* height: 300px; */
+    /* background-color: red; */
+
+}
+
+.loved-card-video{
+    width: 100%;
+border-radius: 8px;
+
+}
+
+.loved-videos{
+
+/* width: 14rem; */
+
+width: 100%;
+height: 22rem;
+object-fit: cover;
+object-position: top;
+
+
+
+/* height: rem; */
+
+}
+
+.loved-text{
+    background-color: white;
+border-radius: 8px;
+
+}
+
+.loved-pic{
+    /* z-index: 3; */
+    position: relative;
+    bottom: 25px;
+    width: 70px;
+padding: .5rem;
+background-color: white;
+box-shadow: 1px 2px 8px #979595;
+
+/* margin-top: -50px; */
+
+}
+.loved-pics{
+    width: 3rem;
+    
+}
+
+/* LOVED AND RECOMMENDED  */
+
+
+
+
+
+
+
+
+/* BEST SELLER  */
+
+.best-seller-body{
+    
+}
+
+.best-seller-grid{
+display: grid;
+grid-template-columns: repeat(4,1fr)  ;
+/* grid-template-rows: 2fr 1fr 1fr; */
+grid-column: 1fr 1fr 1fr;
+grid-gap: 10px;
+}
+
+.grid-1{
+    padding: .5rem .7rem;
+    border-radius: 5px;
+    grid-row: 1/3;
+    grid-column: 1/3;
+
+}
+
+.grid-1-head-heading{
+    font-size: .8rem;
+}
+
+.pro-40-img{
+    width: 18rem;
+}
+
+.spe-price-3{
+    font-size: .7rem;
+    font-weight: 500;
+}
+
+.grid-2{
+
+    background-color: white;
+    padding: .5rem .7rem;
+
+}
+
+.airbud-550-img{
+    width: 10rem;
+}
+
+/* BEST SELLER  */
+
+
+
+
+
+
 /* SECOND PRODUCT */
 
 .watches-bcg{
@@ -497,7 +620,15 @@ width: 250px;
     
     }
 
+
+    /* BEST SELLER  */
+
+    
+
 }
+
+
+
 
 
 /* 768 */
@@ -606,6 +737,26 @@ width: 250px;
     
     
     }
+
+    .best-seller-grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+       
+        }
+        
+        .grid-1{
+            padding: .5rem .7rem;
+            border-radius: 5px;
+           
+        
+        } 
+        .grid-2{
+           
+            
+        }
+
+        /* BEST SELLER  */
 
 }
 
