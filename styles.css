@@ -124,6 +124,9 @@ width: 1.1rem;
 .earbuds-bcg{
     background-color: rgb(190, 189, 189);
 }
+.card-heads{
+    font-size: 1.2rem;
+}
 
  .view-btn{
     padding: 0.4rem 1rem;
@@ -135,36 +138,49 @@ width: 1.1rem;
 .card{
     background-color: #ffffff;
     width: 230px; 
-    margin-left:1rem ;
+   
 }
 
+.earbud-imgs{
 
+    height: 150px;
+}
  .buds-img{
     width: 120px;
-    /* height: ; */
+    
  }
 
  .name{
     font-size: .8rem;
     font-weight: bolder;
+    height: 2.7rem;
  }
 
  .spe-price{
     font-size: 1.2rem;
+    height: 2.2rem;
     font-weight: 500;
 
  }
 
  .act-price{
     font-size: .7rem;
+    height: 1.4rem;
+
     color: rgba(7, 18, 27, .4);
  }
+
+ /* .earbuds-head-heading {
+    height: 1rem;
+ } */
 
  .off{
     background-color: rgb(235, 232, 232);
     padding: .2rem;
     border-radius: .2rem;
     color: #0bb07e;
+    font-size: .7rem;
+    height: 1.4rem;
  }
 
 /* FIRST PRODUCT */
@@ -569,259 +585,7 @@ width: 250px;
 
 
 
-/* media queries */
 
-
-@media(max-width : 1400px){
-    .reason-1{
-        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
-        width: 550px;
-        padding:  4rem; 
-        border-radius: 10px;
-        margin-top: 8px;
-    
-    
-    }
-
-}
-
-
-
-@media(max-width : 1200px){
-    .reason-1{
-        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
-        width: 450px;
-        padding:  4rem; 
-        border-radius: 10px;
-        margin-top: 8px;
-    
-    
-    }
-
-}
-
-@media(max-width : 992px){
-    .mobiles{
-        width:150px;
-        font-size: .8rem;
-        height: 5rem;
-        padding: 1rem 0rem;
-        
-        /* flex-wrap: wrap; */
-    }
-
-    .reason-1{
-        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
-        width: 500px;
-        padding:  4rem; 
-        border-radius: 10px;
-        margin-top: 8px;
-    
-    
-    }
-
-
-    /* BEST SELLER  */
-
-    
-
-}
-
-
-
-
-
-/* 768 */
-
-@media(max-width : 768px){
-
-    .tog-logo{
-        width: 50%;
-    }
-
-
-    .search-bar{
-        width: 50%;
-        background-color: white;
-        padding: .6rem 0.8rem;
-        border-radius: 6px;
-        font-size: 1rem;
-    }
-}
-
-
-
-
-
-/* 700 */
-
-
-@media(max-width : 700px){
-
-
-    .log-reg{
-        display: none;
-        /* color: red; */
-        /* background-color: black; */
-
-    }
- 
-
-
-}
-
-
-/* 662 */
-
-
-@media(max-width : 662px){
-
-
-    .log-reg{
-        display: none;
-        /* color: red; */
-        /* background-color: black; */
-
-    }
-    .mobiles{
-        width:130px;
-        font-size: .8rem;
-        height: 5rem;
-        padding: 1rem 0rem;
-        
-        /* flex-wrap: wrap; */
-    }
-
-    .view-btn{
-        padding: 0.4rem 1.4rem;
-        border: 0px;
-        border-radius: 3px;
-        font-size: .5rem;
-     }
-
-     h4{
-        font-size: .8rem;
-     }
-
-}
-
-
-/* 575 */
-
-
-@media(max-width : 575px){
-
-
-
-    .mobiles{
-        width:90px;
-        font-size: .8rem;
-        height: 5rem;
-        padding: 1rem 0rem;
-        font-size: .6rem;
-        
-        /* flex-wrap: wrap; */
-    }
-
-    .mobile-img{
-        width: 2.6rem;
-        
-    }
-
-    .reason-1{
-        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
-        width: 90%;
-        padding: 4rem 2rem; 
-        border-radius: 10px;
-        margin-top: 8px;
-    
-    
-    }
-
-    .best-seller-grid{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-       
-        }
-        
-        .grid-1{
-            padding: .5rem .7rem;
-            border-radius: 5px;
-           
-        
-        } 
-        .grid-2{
-           
-            
-        }
-
-        /* BEST SELLER  */
-
-}
-
-
-/* 405 */
-
-
-@media(max-width : 405px){
-
-
-
-    .mobiles{
-        width:75px;
-        font-size: .8rem;
-        height: 5rem;
-        padding: 1rem 0rem;
-        font-size: .6rem;
-        
-        /* flex-wrap: wrap; */
-    }
-
-    .mobile-img{
-        width: 2.6rem;
-        
-    }
-
-    .tog-logo{
-        width: 62%;
-    }
-    .search-bar{
-        width: 45%;
-        background-color: white;
-        padding: .6rem 0.8rem;
-        border-radius: 6px;
-        font-size: 1rem;
-    }
-
-
-    .reason-1{
-        background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
-        width: 90%;
-        padding: 4rem 1rem; 
-        border-radius: 10px;
-        margin-top: 8px;
-    
-    
-    }
-
-
-    /* Footer  */
-
-    .one-l{
-        width: 250px;
-        margin-top: 20px;
-    }
-
-    .google{
-        width: 130px;
-    
-    }
-
-    /* Footer  */
-
-
-}
 
 
 
