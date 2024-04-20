@@ -66,7 +66,8 @@
 .card{
     background-color: #ffffff;
     width: 210px; 
-    /* margin-left:1rem ; */
+    padding: .7rem;
+
 }
 
 
@@ -86,7 +87,7 @@
  }
 
  .act-price{
-    font-size: .6rem;
+    font-size: .8rem;
     color: rgba(7, 18, 27, .4);
  }
 
@@ -163,6 +164,8 @@
 .card{
     background-color: #ffffff;
     width: 195px; 
+    padding: .6rem;
+
 }
 
 
@@ -182,7 +185,7 @@
  }
 
  .act-price{
-    font-size: .rem;
+    font-size: .8rem;
     color: rgba(7, 18, 27, .4);
  }
 
@@ -247,6 +250,8 @@
 .card{
     background-color: #ffffff;
     width: 130px; 
+    padding: .5rem;
+
     }
 
 
@@ -264,13 +269,14 @@
  .spe-price{
     font-size: .6rem;
     font-weight: 500;
+    height: 1.2rem;
 
  }
 
  .act-price{
-    font-size: .5rem;
+    font-size: .6rem;
     color: rgba(7, 18, 27, .4);
-    height: 1.2rem;
+    height: 1rem;
  }
 
  .off{
@@ -279,7 +285,7 @@
     border-radius: .2rem;
     color: #0bb07e;
     font-size: .4rem;
-    height: 1.2rem;
+    height: 1rem;
 
  }
 
@@ -356,7 +362,7 @@
 
 .earbud-imgs{
 
-    height: 65px;
+    height: 62px;
 }
 
  .view-btn{
@@ -369,6 +375,8 @@
 .card{
     background-color: #ffffff;
     width: 100px; 
+    padding: .34rem;
+
     }
 
 
@@ -386,14 +394,14 @@
  .spe-price{
     font-size: .5rem;
     font-weight: 500;
-    height: 1.4rem;
+    height: 1.2rem;
 
  }
 
  .act-price{
     font-size: .5rem;
     color: rgba(7, 18, 27, .4);
-    height: 1rem;
+    height: .8rem;
  }
 
  .off{
@@ -401,8 +409,8 @@
     padding: .2rem;
     border-radius: .2rem;
     color: #0bb07e;
-    font-size: .4rem;
-    height: 1rem;
+    font-size: .34rem;
+    height: .8rem;
 
  }
 
@@ -458,12 +466,81 @@
            
         
         } 
-        .grid-2{
-           
-            
-        }
+       
 
         /* BEST SELLER  */
+
+
+
+
+
+
+
+              /* FIRST PRODUCT */
+
+.earbuds-bcg{
+    background-color: rgb(190, 189, 189);
+}
+
+.card-heads{
+    font-size: 1rem;
+}
+
+.earbud-imgs{
+
+    height: 58px;
+}
+
+ .view-btn{
+    padding: 0.35rem .85rem;
+    border: 0px;
+    border-radius: 3px;
+    font-size: .48rem;
+ }
+
+.card{
+    background-color: #ffffff;
+    width: 85px; 
+    padding: .34rem;
+
+    }
+
+
+ .buds-img{
+    width: 48px;
+ }
+
+ .name{
+    font-size: .34rem;
+    font-weight: bolder;
+    height: 1.25rem;
+
+ }
+
+ .spe-price{
+    font-size: .43rem;
+    font-weight: 500;
+    height: 1rem;
+
+ }
+
+ .act-price{
+    font-size: .4rem;
+    color: rgba(7, 18, 27, .4);
+    height: .8rem;
+ }
+
+ .off{
+    background-color: rgb(235, 232, 232);
+    padding: .2rem;
+    border-radius: .2rem;
+    color: #0bb07e;
+    font-size: .3rem;
+    height: .8rem;
+
+ }
+
+/* FIRST PRODUCT */
 
 }
 
@@ -511,6 +588,77 @@
     
     
     }
+
+
+
+    /* FIRST PRODUCT */
+
+.earbuds-bcg{
+    background-color: rgb(190, 189, 189);
+}
+
+.card-heads{
+    font-size: 1rem;
+}
+
+
+
+ .view-btn{
+    padding: 0.35rem .85rem;
+    border: 0px;
+    border-radius: 3px;
+    font-size: .48rem;
+ }
+
+.card{
+    background-color: #ffffff;
+    width: 69px; 
+    padding: .3rem;
+
+    }
+
+    .earbud-imgs{
+
+        height: 45px;
+    }
+
+
+ .buds-img{
+    width: 40px;
+ }
+
+ .name{
+    font-size: .25rem;
+    font-weight: bolder;
+    height: 1rem;
+
+ }
+
+ .spe-price{
+    font-size: .38rem;
+    font-weight: 500;
+    height: .9rem;
+
+ }
+
+ .act-price{
+    font-size: .35rem;
+    color: rgba(7, 18, 27, .4);
+    height: .6rem;
+ }
+
+ .off{
+    background-color: rgb(235, 232, 232);
+    padding: .2rem;
+    border-radius: .2rem;
+    color: #0bb07e;
+    font-size: .22rem;
+    height: .6rem;
+
+ }
+
+/* FIRST PRODUCT */
+
 
 
     /* Footer  */
