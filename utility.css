@@ -851,15 +851,48 @@
     }
 
 
+        /* Reason  */
+
+
+.reason-head-heading{
+    font-size: 1.4rem;
+    text-align: center;
+}
+
     .reason-1{
         background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
         width: 90%;
-        padding: 4rem 1rem; 
+        padding: 1rem 1rem; 
         border-radius: 10px;
-        margin-top: 8px;
+        margin-top: 1rem;
     
     
     }
+
+    .reason-imgs{
+        width: 250px;
+        }
+        
+        .reason-img{
+            width: 150px;
+        }
+        .reason-text{
+            text-align: center;
+        }
+        .Package-text{
+            font-size: 1.1rem;
+            
+        }
+        .know-more{
+            font-size: .7rem;
+            padding: .4rem .6rem;
+            background-color: #ffc107;
+            border: 0px;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+
+        /* Reason  */
 
 
 /* BANNER  */

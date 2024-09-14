@@ -414,7 +414,7 @@ margin-top: 18px;
 /* SHOP BY BRAND  */
 
 .brand-body{
-    padding: 0rem 5rem;
+    padding: 0rem 1rem;
 }
 
 .samsung{
@@ -423,7 +423,7 @@ margin-top: 18px;
 }
 
 .samsung-img{
-    width: 70px;
+    /* width: 70px; */
 }
 
 /* SHOP BY BRAND  */
@@ -494,12 +494,17 @@ width: 110px;
 
 /* REASON  */
 
+.reason-head-heading{
+    font-size: 2rem;
+    text-align: center;
+}
+
 .reason-1{
     background: radial-gradient(25.65% 62.25% at 27.62% 50.2%, #48afff 21.57%, #0078d5 100%);
     width: 640px;
-    padding:  4rem; 
+    padding: 4rem 4rem; 
     border-radius: 10px;
-    margin-top: 8px;
+    margin-top: 1rem;
 
 
 }
