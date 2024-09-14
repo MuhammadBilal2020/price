@@ -447,6 +447,10 @@ margin: 0.3rem .6rem;
 width: 110px;
 }
 
+.review-heading{
+    font-size: 1.3rem;
+}
+
 .rev-img{
     width: 110px;
     height: 80px;
